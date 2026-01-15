@@ -5,7 +5,7 @@
 
 <h1 align="center" style="font-size:48px;">
   <span style="color:#ffffff; text-shadow: 0 0 14px rgba(255,255,255,0.4);">
-    Flavio Cesar Flores
+    Flavio Cesar 
   </span>
 </h1>
 
