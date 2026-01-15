@@ -1,98 +1,104 @@
-# 🐉 FLAVIO CESAR FLORES
-### UX-Driven Software Developer
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZvcXp2NXNjZXo4dDZleGlwY2djdHNvZXIzY25wdDRxazZmdHluayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ozz6djElDPFvltK/giphy.gif"
+       width="420" />
+</p>
 
-Architecting systems that are stable, usable, and resilient.  
-Designing experiences. Building structure. Preventing chaos.
+<h1 align="center">Flavio Cesar Flores</h1>
+<h3 align="center">Systems Engineer · Junior IT · UX-Oriented Developer</h3>
 
----
-
-## 🗺️ The Realm
-
-I design software the way strong kingdoms survive:  
-with clarity, structure, and foresight.
-
-My background in Systems Engineering and UX thinking allows me to connect
-user needs with solid technical solutions, focusing on usability,
-maintainability, and long-term scalability.
-
-I don’t just write code.  
-I design flows, logic, and experiences.
-
-Good software feels intuitive before it feels complex.
+<p align="center">
+  <i>“Chaos is not a pit. Chaos is a ladder.”</i>
+</p>
 
 ---
 
-## 🛡️ The Great Houses
+## 🧭 About Me
 
-🧠 **House UX**
-- Interaction Design  
-- User Flows & Usability  
-- Human-Centered Systems  
+I am a **Systems Engineering student** with a strong inclination toward **UX-driven development**, backend logic, and practical problem solving.  
+I enjoy building **functional, clean, and user-focused systems**, where design is not decoration but part of the solution.
 
-⚙️ **House Engineering**
-- Frontend Development  
-- Databases & Business Logic  
-- API & System Design  
-
-🔐 **House Security**
-- Security Fundamentals  
-- Data Protection Principles  
-- System Integrity & Reliability  
+Although my academic projects are local, they are **fully functional**, carefully structured, and designed with usability in mind.  
+I am currently seeking my **first professional opportunity as a Junior IT** where I can grow, learn, and contribute from day one.
 
 ---
 
-## 🐲 The Dragons (Projects)
+## ⚔️ Houses of Knowledge (Tech Stack)
 
-Each project solves a real conflict, not just a technical challenge.
+### 🐍 House Python
+- Python (basic – scripting, logic, small practices)
 
-🐲 **Academic & Personal Systems**
-- Web applications focused on clarity and functionality  
-- Dashboards and management systems  
-- UX-oriented interfaces for real users  
+### 🐘 House Databases
+- SQL (intermediate)
+- MySQL
+- PostgreSQL
 
-🐲 **Data & Logic Projects**
-- SQL-based solutions (MySQL, PostgreSQL)  
-- Data-driven decision support  
-- Clean and structured backend logic  
+### 🛡️ House Web
+- HTML5
+- CSS3
+- JavaScript (basic)
+- C# (academic use)
 
----
+### 🧱 House DevOps (Basic)
+- Docker (basic usage)
+- Git / GitHub
 
-## ⚔️ The Battles I’ve Fought
-
-- Projects built under real academic constraints  
-- Evolving requirements and limited resources  
-- Designing for people, not just features  
-- Learning by building, breaking, and improving  
-
----
-
-## 🪶 The Maesters (Knowledge & Learning)
-
-Knowledge that strengthens the realm:
-
-- Software Development Fundamentals  
-- Databases & Data Analysis  
-- Cybersecurity & Information Security (ISO 27001 concepts)  
-- Continuous learning through hands-on practice  
+### 🐧 House Linux & Security
+- Linux (basic)
+- Networking fundamentals
+- Ethical Hacking (introductory level)
+- ISO 27001 awareness
 
 ---
 
-## 🕯️ The Night Watch (Philosophy)
+## 🏗️ Campaigns & Projects
 
-I believe software should protect users from complexity,  
-not expose them to it.
+Academic and personal projects developed locally:
 
-Clarity is not optional.  
-It is the wall that keeps chaos away.
+- 🛒 **E-commerce platforms**
+- 🚗 **Car dealership websites**
+- 🏪 **Supermarket & micro-market systems**
+- 📊 **Dashboards & admin panels**
+- 🎨 Strong focus on **UX/UI**, usability, and structure
 
----
-
-## 📜 Status
-
-🎓 Systems Engineering student  
-🔍 Open to junior roles, internships, and practical training  
-🌍 Based in Cochabamba, Bolivia  
+> ⚠️ Deployment in progress — repositories will be public soon.
 
 ---
 
-*“Software is not just built. It is ruled.”*
+## 📜 Certifications & Training
+
+- HP LIFE – **Data Science & Data Analysis**
+- HP LIFE – **Introduction to Cybersecurity**
+- HP LIFE – **Customer Knowledge & Business Communication**
+- ISO 27001 Workshop – Hacker Mentor Academy
+- Ethical Hacking Gamified Course – Hacker Mentor
+- Programming Participation Certificates – UPDS
+- Coca-Cola Training Programs (foundational skills)
+
+---
+
+## 🎯 Current Objective
+
+**Junior IT Position**  
+(Open to learning paths in Data, Cybersecurity, or Software Development)
+
+---
+
+## 🌍 Availability
+
+- ⏱️ Full-time or part-time  
+- 🏢 On-site / Hybrid / Remote  
+- 📍 Cochabamba, Bolivia
+
+---
+
+## 📬 Contact
+
+- 📧 Email: **flaviocesar640@gmail.com**
+- 💼 LinkedIn: *(in optimization)*
+- 🧑‍💻 GitHub: **@cesar-code401**
+
+---
+
+<p align="center">
+  <i>Built with discipline, curiosity, and respect for clean design.</i>
+</p>
