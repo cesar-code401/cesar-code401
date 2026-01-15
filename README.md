@@ -3,11 +3,11 @@
        width="420" />
 </p>
 
-<h1 align="center" style="font-size:48px;">
-  <span style="color:#ffffff; text-shadow: 0 0 14px rgba(255,255,255,0.4);">
-    Flavio Cesar 
-  </span>
+<h1 align="center">
+  ⚔️ <strong>FLAVIO</strong><br>
+  <sub><strong>CESAR</strong></sub>
 </h1>
+
 
 <h3 align="center">
   Systems Engineer · Junior IT · UX-Oriented Developer
