@@ -3,11 +3,22 @@
        width="420" />
 </p>
 
-<h1 align="center">Flavio Cesar Flores</h1>
-<h3 align="center">Systems Engineer · Junior IT · UX-Oriented Developer</h3>
+<h1 align="center" style="font-size:48px;">
+  <span style="color:#ffffff; text-shadow: 0 0 14px rgba(255,255,255,0.4);">
+    Flavio Cesar Flores
+  </span>
+</h1>
 
-<p align="center">
-  <i>“Chaos is not a pit. Chaos is a ladder.”</i>
+<h3 align="center">
+  Systems Engineer · Junior IT · UX-Oriented Developer
+</h3>
+
+<p align="center" style="opacity:0.7;">
+  <i>“Chaos is a ladder — structure turns complexity into progress.”</i>
+</p>
+
+<p align="center" style="opacity:0.5;">
+  ━━━━━━━━━━━━━━━━ ⚔️ ━━━━━━━━━━━━━━━━
 </p>
 
 ---
@@ -25,27 +36,27 @@ I am currently seeking my **first professional opportunity as a Junior IT** wher
 ## ⚔️ Houses of Knowledge (Tech Stack)
 
 ### 🐍 House Python
-- Python (basic – scripting, logic, small practices)
+- Python *(basic — scripting, logic, small practices)*
 
 ### 🐘 House Databases
-- SQL (intermediate)
+- SQL *(intermediate)*
 - MySQL
 - PostgreSQL
 
 ### 🛡️ House Web
 - HTML5
 - CSS3
-- JavaScript (basic)
-- C# (academic use)
+- JavaScript *(basic)*
+- C# *(academic use)*
 
-### 🧱 House DevOps (Basic)
-- Docker (basic usage)
+### 🧱 House DevOps
+- Docker *(basic usage)*
 - Git / GitHub
 
 ### 🐧 House Linux & Security
-- Linux (basic)
+- Linux *(basic)*
 - Networking fundamentals
-- Ethical Hacking (introductory level)
+- Ethical Hacking *(introductory level)*
 - ISO 27001 awareness
 
 ---
@@ -60,26 +71,26 @@ Academic and personal projects developed locally:
 - 📊 **Dashboards & admin panels**
 - 🎨 Strong focus on **UX/UI**, usability, and structure
 
-> ⚠️ Deployment in progress — repositories will be public soon.
+> ⚠️ Public repositories and deployments coming soon.
 
 ---
 
 ## 📜 Certifications & Training
 
-- HP LIFE – **Data Science & Data Analysis**
-- HP LIFE – **Introduction to Cybersecurity**
-- HP LIFE – **Customer Knowledge & Business Communication**
-- ISO 27001 Workshop – Hacker Mentor Academy
-- Ethical Hacking Gamified Course – Hacker Mentor
-- Programming Participation Certificates – UPDS
-- Coca-Cola Training Programs (foundational skills)
+- HP LIFE — **Data Science & Data Analysis**
+- HP LIFE — **Introduction to Cybersecurity**
+- HP LIFE — **Customer Knowledge & Business Communication**
+- ISO 27001 Workshop — Hacker Mentor Academy
+- Ethical Hacking Gamified Course — Hacker Mentor
+- Programming Participation Certificates — UPDS
+- Coca-Cola Training Programs *(foundational skills)*
 
 ---
 
 ## 🎯 Current Objective
 
 **Junior IT Position**  
-(Open to learning paths in Data, Cybersecurity, or Software Development)
+*Open to growth paths in Data, Cybersecurity, or Software Development.*
 
 ---
 
@@ -93,11 +104,15 @@ Academic and personal projects developed locally:
 
 ## 📬 Contact
 
-- 📧 Email: **flaviocesar640@gmail.com**
-- 💼 LinkedIn: *(in optimization)*
+- 📧 **flaviocesar640@gmail.com**
+- 💼 LinkedIn *(in optimization)*
 - 🧑‍💻 GitHub: **@cesar-code401**
 
 ---
+
+<p align="center" style="opacity:0.6;">
+  <i>Built with discipline, clarity, and respect for clean design.</i>
+</p>
 
 <p align="center">
   <i>Built with discipline, curiosity, and respect for clean design.</i>
