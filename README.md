@@ -30,8 +30,3 @@ Aprendo haciendo, me adapto rápido y disfruto construir soluciones claras y út
 ## 📫 Contacto
 - 📧 Email: flaviocesar640@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/flavio-cesar-flores-38b45b267/
-
----
-<p align="center">
-  <img src="./assets/mario-animation.svg" width="800"/>
-</p>
