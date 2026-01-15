@@ -1,32 +1,36 @@
-# 👋 Hola, soy Flavio Cesar Flores
+<!-- HERO -->
+<div align="center">
 
-🎓 Estudiante de Ingeniería de Sistemas  
-💻 Junior TI | Desarrollo de Software | Bases de Datos  
-📍 Cochabamba, Bolivia  
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120" />
 
----
+# 🎮 FLAVIO CESAR FLORES
 
-## 🚀 Sobre mí
-Soy estudiante de Ingeniería de Sistemas con interés en el desarrollo de software y bases de datos.  
-He trabajado en proyectos académicos funcionales como aplicaciones web, e-commerce y sistemas de gestión, con un fuerte enfoque en **UX y diseño funcional**.
+### UX-Driven Software Developer
 
-Aprendo haciendo, me adapto rápido y disfruto construir soluciones claras y útiles.
+Designing experiences.  
+Building systems.  
+Solving real problems.
 
----
-
-## 🛠️ Tecnologías y herramientas
-- **Lenguajes:** HTML, CSS, JavaScript, SQL, Python (básico), C# (básico)
-- **Bases de datos:** MySQL, PostgreSQL
-- **Herramientas:** Git, GitHub, VS Code, Docker (básico)
-- **Otros:** Linux (básico), UX/UI
+</div>
 
 ---
 
-## 📂 Proyectos destacados
-🔹 En proceso de organización
+## 🧠 STORY MODE
+
+I don’t just write code —  
+I design **flows**, **logic**, and **experiences**.
+
+My background in **Systems Engineering** and **UX thinking** allows me to connect
+user needs with solid technical solutions, focusing on clarity, usability, and structure.
+
+I believe good software feels intuitive before it feels complex.
 
 ---
 
-## 📫 Contacto
-- 📧 Email: flaviocesar640@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/flavio-cesar-flores-38b45b267/
+## 🧩 CORE SYSTEMS
+
+```text
+🧠 UX & Interaction Design
+⚙️ Frontend Engineering
+💾 Databases & Logic
+🔐 Security Fundamentals
