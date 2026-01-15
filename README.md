@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hola, soy Flavio Cesar Flores
 
-<!--
-**cesar-code401/cesar-code401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería de Sistemas  
+💻 Junior TI | Desarrollo de Software | Bases de Datos  
+📍 Cochabamba, Bolivia  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+Soy estudiante de Ingeniería de Sistemas con interés en el desarrollo de software y bases de datos.  
+He trabajado en proyectos académicos funcionales como aplicaciones web, e-commerce y sistemas de gestión, con un fuerte enfoque en **UX y diseño funcional**.
+
+Aprendo haciendo, me adapto rápido y disfruto construir soluciones claras y útiles.
+
+---
+
+## 🛠️ Tecnologías y herramientas
+- **Lenguajes:** HTML, CSS, JavaScript, SQL, Python (básico), C# (básico)
+- **Bases de datos:** MySQL, PostgreSQL
+- **Herramientas:** Git, GitHub, VS Code, Docker (básico)
+- **Otros:** Linux (básico), UX/UI
+
+---
+
+## 📂 Proyectos destacados
+🔹 En proceso de organización
+
+---
+
+## 📫 Contacto
+- 📧 Email: flaviocesar640@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/flavio-cesar-flores-38b45b267/
